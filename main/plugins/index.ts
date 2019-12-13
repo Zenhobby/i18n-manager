@@ -1,4 +1,5 @@
 import * as jsonPlugin from './json';
+import * as propPlugin from './property';
 import * as yamlPlugin from './yaml';
 
 export interface IPlugin {
@@ -9,6 +10,7 @@ export interface IPlugin {
 
 let plugins: IPlugin[] = [
   jsonPlugin,
+  propPlugin,
   yamlPlugin,
 ];
 

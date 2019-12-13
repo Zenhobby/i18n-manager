@@ -305,6 +305,7 @@ const locales: {[key: string]: string; } = {
   'ig-NG': 'Igbo (Nigeria)',
   'id': 'Indonesian',
   'id-ID': 'Indonesian (Indonesia)',
+  'in': 'Indonesian',
   'ga': 'Irish',
   'ga-IE': 'Irish (Ireland)',
   'it': 'Italian',
